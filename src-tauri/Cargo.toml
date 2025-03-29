@@ -1,8 +1,8 @@
 [package]
-name = "htmltauri"
-version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
+name = "Simplenote"
+version = "0.0.1"
+description = "Simplenote 是一款简单易用、功能轻量的云端笔记应用，专为需要快速记录想法、整理任务或撰写文本的人群设计。它的核心理念是“极简主义”，注重内容本身，而不是复杂的格式或功能。"
+authors = ["1024xiaoshen"]
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
@@ -23,3 +23,4 @@ tauri-plugin-opener = "2"
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
 tauri-plugin-store = "2.0.0"
+tauri-plugin-single-instance = "2"
