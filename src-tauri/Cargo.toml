@@ -1,7 +1,7 @@
 [package]
 name = "Memos"
-version = "0.0.1"
-description = "我自己的Memos"
+version = "0.0.2"
+description = "我自己的Memos，不适合其他人用"
 authors = ["1024xiaoshen"]
 edition = "2021"
 
