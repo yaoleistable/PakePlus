@@ -84,7 +84,7 @@ jobs:
               with:
                   tagName: 'Memos'
                   releaseName: 'Memos v__VERSION__'
-                  releaseBody: ''
+                  releaseBody: '修改窗口大小'
                   releaseDraft: false
                   prerelease: false
                   publish: true
